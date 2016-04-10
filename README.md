@@ -1,10 +1,13 @@
 # Golang Challenges
-The best way to learn is by actually doing something.
+The best way to learn coding is by coding.
 
-That's why we have sites like [FreeCodeCamp](https://FreeCodeCamp.com) and [CodeWars](http://www.codewars.com/dashboard) that encourage challengers to tackle problems and build upon their knowledge.
+That's why sites like [FreeCodeCamp](https://FreeCodeCamp.com) and [CodeWars](http://www.codewars.com/dashboard) exist.
 
 ## PROBLEM
-Unfortunately, there are not a lot of resources for beginners to tackle challenges in Golang. Even a site like CodeWars doesn't have any challenges for Golang.
+Unfortunately, there are not a lot of resources for beginners to tackle challenges in Golang. Even a site like CodeWars does not support Golang at the time of this writing.
 
 ## SOLUTION
-This project aims to correct this by copying FreeCodeCamp's style of `basic`, `intermediate`, and `advanced` challenges. I aim to go through these challenges and consolidate the answers in a solutions directory.
+This project aims to contribute a set of open-source challenges ranging in difficulty from `basic` to `advanced`.
+
+## CONTRIBUTE
+Interested in contributing challenges or solutions? Check out [CONTRIBUTE.md](CONTRIBUTE.md)
