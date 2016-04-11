@@ -1,4 +1,4 @@
-# Golang Challenges
+# Coding Challenges
 The best way to learn coding is by coding.
 
 That's why sites like [FreeCodeCamp](https://FreeCodeCamp.com) and [CodeWars](http://www.codewars.com/dashboard) exist.
